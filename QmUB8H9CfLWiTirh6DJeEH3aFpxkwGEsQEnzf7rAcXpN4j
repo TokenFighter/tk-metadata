@@ -3,5 +3,6 @@
   "display": "Ada",
   "ipfs_hash": "QmUB8H9CfLWiTirh6DJeEH3aFpxkwGEsQEnzf7rAcXpN4j",
   "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/ada_f.png",
+  "external_url": "https://tokenfighter.io",
   "description": "Ada Lovelace was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She's the first to recognize that the machine had applications beyond pure calculation and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as one of the first to be a computer programmer."
 }
