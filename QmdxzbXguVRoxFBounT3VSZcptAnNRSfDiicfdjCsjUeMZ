@@ -3,5 +3,6 @@
   "display": "Garen EX",
   "ipfs_hash": "QmdxzbXguVRoxFBounT3VSZcptAnNRSfDiicfdjCsjUeMZ",
   "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/garen_ex_f.png",
-	"description": "A true form of Garen. He has freed the power of the enchanted armor, causing it to break into pieces and Garen gaining much energy."
+  "external_url": "https://tokenfighter.io",
+  "description": "A true form of Garen. He has freed the power of the enchanted armor, causing it to break into pieces and Garen gaining much energy."
 }
