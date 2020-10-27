@@ -3,5 +3,6 @@
   "display": "Wars",
   "ipfs_hash": "QmRpv73SwT1vrtJWZmmEgesV3nbSaba5QVDH1n8MtdCT7h",
   "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/wars_f.png",
-	"description": "When Mars and White is 'welded' into one, the 'Wrath' incarnates... Wars."
+  "external_url": "https://tokenfighter.io",
+  "description": "When Mars and White is 'welded' into one, the 'Wrath' incarnates... Wars."
 }
