@@ -1,0 +1,7 @@
+{
+  "name": "Work",
+  "display": "Work",
+  "ipfs_hash": "QmPYMJGJGoNghB8bxXFRgj3juDNXzkDSMrBzK5ghQGMwo9",
+  "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/work_f.png",
+  "description": "A proof-of-work is a consensus mechanism. It deters denial-of-service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer. The concept was invented by Cynthia Dwork and Moni Naor as presented in a 1993 journal article."
+}
