@@ -3,5 +3,6 @@
   "display": "Base",
   "ipfs_hash": "QmbZoNm2kLqBqRFhcjp2r2ARPv1oKaw7ctbGFUPFsbd2zR",
   "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/base_f.png",
+  "external_url": "https://tokenfighter.io",
   "description": "Rebasing is a feature of the Ampleforth protocol that alters the supply of the tokens. This means that the amount of AMPLs held in your wallet will be modified every 24 hours based on the weighted average of the token price throughout this time."
 }
