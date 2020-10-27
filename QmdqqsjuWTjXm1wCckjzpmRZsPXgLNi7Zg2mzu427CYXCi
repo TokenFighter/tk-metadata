@@ -1,0 +1,7 @@
+{
+  "name": "Stake",
+  "display": "Stake",
+  "ipfs_hash": "QmdqqsjuWTjXm1wCckjzpmRZsPXgLNi7Zg2mzu427CYXCi",
+  "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/stake_f.png",
+  "description": "Staking is the process of actively participating in transaction validation (similar to mining) on a proof-of-stake (PoS) blockchain. Anyone with a minimum-required balance of a specific cryptocurrency can validate transactions and earn Staking rewards on these blockchains."
+}
