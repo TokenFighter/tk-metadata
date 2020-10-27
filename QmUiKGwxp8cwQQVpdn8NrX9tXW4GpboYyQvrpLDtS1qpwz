@@ -1,0 +1,7 @@
+{
+  "name": "Null",
+  "display": "Null",
+  "ipfs_hash": "QmUiKGwxp8cwQQVpdn8NrX9tXW4GpboYyQvrpLDtS1qpwz",
+  "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/null_f.png",
+  "description": "In computing, a null pointer or null reference has a value saved for indicating that the pointer or reference does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown lengths or the failure to perform some action; burning tokens refers to sending tokens to a null address."
+}
