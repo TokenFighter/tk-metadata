@@ -1,2 +1,2 @@
-# tk-metadata
+# Token Fighter Metadata
 Token Fighter Metadata
