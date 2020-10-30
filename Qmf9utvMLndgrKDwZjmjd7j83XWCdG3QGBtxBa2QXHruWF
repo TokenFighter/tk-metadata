@@ -2,7 +2,7 @@
   "name": "Gwei",
   "display": "Gwei",
   "ipfs_hash": "Qmf9utvMLndgrKDwZjmjd7j83XWCdG3QGBtxBa2QXHruWF",
-  "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/cz_f.png",
+  "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/img/gwei_f.png",
   "external_url": "https://tokenfighter.io",
   "description": "Gwei is most commonly used when talking about gas (network transaction fees). Rather than saying your gas cost is 0.000000001 ether you can say 1 gwei.."
 }
