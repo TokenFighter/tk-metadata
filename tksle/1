@@ -19,6 +19,10 @@
     {
       "trait_type": "Tag", 
       "value": "Miss Bitcoin"
+    },
+    {
+      "trait_type": "Max Supply", 
+      "value": "10"
     }
   ], 
   "description": "Mai Fujimoto aka Miss Bitcoin...", 
