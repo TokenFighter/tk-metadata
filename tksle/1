@@ -1,0 +1,28 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Rarity", 
+      "value": "Super Limited"
+    }, 
+    {
+      "trait_type": "Artist", 
+      "value": "DeStation"
+    }, 
+    {
+      "trait_type": "Type", 
+      "value": "Special Collaboration"
+    }, 
+    {
+      "trait_type": "Year Created", 
+      "value": 2020
+    }, 
+    {
+      "trait_type": "Tag", 
+      "value": "Miss Bitcoin"
+    }
+  ], 
+  "description": "Mai Fujimoto aka Miss Bitcoin...", 
+  "external_url": "https://staging.tokenfighter.io/api/1", 
+  "image": "https://raw.githubusercontent.com/TokenFighter/tk-metadata/master/tksle/img/1.png", 
+  "name": "Mai Fujimoto"
+}
